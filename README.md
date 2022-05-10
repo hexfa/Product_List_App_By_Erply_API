@@ -11,6 +11,9 @@ Note: If the software does not show anything, please get your specific user deta
 <h3> Document of App:</h3>
 <a href="https://hexfa.com/my-git-doc/shop-erply">Visit Document</a>
 
+<h3> API Testing:</h3>
+<a href="https://hexfa.com/my-git-doc/shop-erply/task-erply.postman_collection.json">Download Postman Collection</a>
+
 <br><h3>Technologies:</h3>
 1.MVVM
 <br>2.View Binding
@@ -24,8 +27,8 @@ Note: If the software does not show anything, please get your specific user deta
 <h3> Demo of App:</h3>
 <table>
   <tr>
-<th><img src="https://hexfa.com/my-git-doc/news/git-images/0000.jpg" width="200" height="400" /></th>
-<th><img src="https://hexfa.com/my-git-doc/news/git-images/1111.jpg" width="200" height="400" /></th>
-<th><img src="https://hexfa.com/my-git-doc/news/git-images/2222.jpg" width="200" height="400" /></th>
+<th><img src="https://hexfa.com/my-git-doc/shop-erply/git-images/0000.jpg" width="200" height="400" /></th>
+<th><img src="https://hexfa.com/my-git-doc/shop-erply/git-images/1111.jpg" width="200" height="400" /></th>
+<th><img src="https://hexfa.com/my-git-doc/shop-erply/git-images/2222.jpg" width="700" height="400" /></th>
     </tr>
   </table>
