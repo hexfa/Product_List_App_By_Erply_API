@@ -26,6 +26,6 @@ Note: If the software does not show anything, please get your specific user deta
   <tr>
 <th><img src="https://hexfa.com/my-git-doc/shop-erply/git-images/0000.jpg" width="200" height="400" /></th>
 <th><img src="https://hexfa.com/my-git-doc/shop-erply/git-images/1111.jpg" width="200" height="400" /></th>
-<th><img src="https://hexfa.com/my-git-doc/shop-erply/git-images/2222.jpg" width="200" height="400" /></th>
+<th><img src="https://hexfa.com/my-git-doc/shop-erply/git-images/2222.jpg" width="700" height="400" /></th>
     </tr>
   </table>
