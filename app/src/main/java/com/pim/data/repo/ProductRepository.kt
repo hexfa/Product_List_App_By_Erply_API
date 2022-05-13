@@ -1,7 +1,7 @@
 package com.pim.data.repo
 
 import com.pim.data.model.product_list.ProductList
-import com.pim.serviece.ProductService
+import com.pim.service.ProductService
 import io.reactivex.Single
 import javax.inject.Inject
 

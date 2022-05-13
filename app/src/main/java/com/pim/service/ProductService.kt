@@ -1,4 +1,4 @@
-package com.pim.serviece
+package com.pim.service
 
 import com.pim.data.model.product_list.ProductList
 import io.reactivex.Single

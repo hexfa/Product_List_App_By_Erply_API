@@ -1,7 +1,7 @@
 package com.pim.data.repo
 
 import com.pim.data.model.credential.Credentials
-import com.pim.serviece.UserIdentifyService
+import com.pim.service.UserIdentifyService
 import io.reactivex.Single
 import javax.inject.Inject
 

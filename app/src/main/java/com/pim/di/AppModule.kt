@@ -2,7 +2,7 @@ package com.pim.di
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.pim.serviece.*
+import com.pim.service.*
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
